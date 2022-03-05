@@ -1,0 +1,4 @@
+/home/parallels/cv_test/sign_detection/build/CMakeFiles/rebuild_cache.dir
+/home/parallels/cv_test/sign_detection/build/CMakeFiles/edit_cache.dir
+/home/parallels/cv_test/sign_detection/build/CMakeFiles/sign_detect.dir
+/home/parallels/cv_test/sign_detection/build/CMakeFiles/find_circle.dir
